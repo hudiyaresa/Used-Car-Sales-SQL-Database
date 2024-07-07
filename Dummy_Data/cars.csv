@@ -1,0 +1,74 @@
+car_id,brand,model,body_type,transmission,year,color,km,description
+0,Nissan,Rogue,Sedan,Manual,2004,Hijau tua,86210,"Necessitatibus possimus aperiam quasi. Et aspernatur dolorum quaerat laudantium officia nostrum consequatur.
+Mollitia beatae quo ut hic quidem. Soluta aliquid reiciendis temporibus."
+1,Mitsubishi,Lancer,SUV,Automatic,2021,Ungu tua,199008,"Commodi rerum quas ex minima fugiat. Quisquam vitae unde. Libero hic in soluta magni odio.
+Voluptatem ratione odio aut corrupti magnam blanditiis. Nesciunt porro perspiciatis quidem."
+2,Hyundai,Elantra,SUV,Manual,2008,Coklat tua,155958,"A aspernatur perspiciatis expedita. Quis quod occaecati vel. Maxime sit laborum omnis voluptatum quae. Labore ipsa fuga consectetur.
+Hic nam provident aliquid optio itaque rem. Eligendi quaerat eius."
+3,Toyota,Corolla,Sedan,Manual,2020,Hitam,14928,"Esse quis eius est. Optio placeat architecto quae est nemo. Maxime itaque necessitatibus corporis.
+Alias sequi iure inventore id illum ad. Cumque incidunt veritatis odio."
+4,Nissan,Sentra,Sedan,Manual,2000,Jingga,41789,Possimus dicta repellat at. Dolores dolorem officia exercitationem quod. Molestiae officia quam asperiores molestiae itaque illo.
+5,Mitsubishi,Pajero,Sedan,Automatic,2001,Magenta,55492,Exercitationem aliquid molestiae et perferendis soluta. Illo magnam laboriosam non minus quasi sed. Doloribus eaque unde vitae voluptatibus recusandae.
+6,Toyota,Camry,Sedan,Automatic,2011,Coklat,55690,Velit deserunt temporibus. Iste dolor aut culpa itaque ipsa impedit. Est modi ut ipsam nihil aliquid.
+7,Kia,Sportage,SUV,Manual,2005,Magenta,37346,Enim eaque cum modi laborum tenetur in. Iusto ratione reiciendis labore. Minus eveniet quas molestias corporis aliquid sunt. Corrupti ipsum odio consequatur delectus quas.
+8,Mitsubishi,Lancer,Sedan,Automatic,2003,Hijau muda,178090,"Iste suscipit dolor deserunt. Similique voluptate tenetur ipsam sapiente.
+Aspernatur non id possimus iusto inventore.
+Voluptatibus dignissimos hic quo totam soluta."
+9,Hyundai,Tucson,SUV,Automatic,2016,Zaitun,124069,"Sed ex esse ipsum odit.
+Temporibus enim beatae eum modi.
+Optio pariatur repudiandae ad odit. Nostrum laboriosam tenetur laudantium inventore sit placeat. Repellendus odio porro necessitatibus."
+10,Nissan,Rogue,Sedan,Manual,2023,Merah,124419,"Quia perferendis ipsam quo dicta quod distinctio. Earum sint quia temporibus numquam maiores.
+Rem suscipit enim necessitatibus. Reprehenderit nam quia repudiandae nemo pariatur."
+11,Suzuki,Ertiga,SUV,Manual,2022,Merah,94443,Ipsum fugiat delectus optio accusantium. Non occaecati expedita eos. Modi error optio saepe rem.
+12,Suzuki,Ertiga,Hatchback,Automatic,2018,Hijau,183833,Quaerat tempore autem animi accusamus hic. Vel voluptas quis perferendis quo voluptas.
+13,Nissan,Rogue,SUV,Manual,2015,Hijau muda,132196,Placeat aliquid omnis explicabo. Autem sequi eveniet nemo corporis molestias ad. Soluta velit eum officia.
+14,Honda,Accord,Hatchback,Manual,2021,Hitam,49506,"Porro accusantium impedit. Esse modi ipsam voluptatem perferendis debitis quidem.
+Reprehenderit quae aperiam eos. Beatae necessitatibus sunt ducimus. At voluptatum dolores optio sapiente animi."
+15,Kia,Sorento,Sedan,Automatic,2011,Hijau tua,195047,Molestias sed neque odit dicta officiis. Animi veniam commodi placeat perspiciatis necessitatibus assumenda. Tempora autem est cupiditate minima.
+16,Hyundai,Elantra,SUV,Manual,2004,Merah bata,185616,Commodi iusto veniam voluptate. Qui dolores dolorem excepturi vero.
+17,Hyundai,Elantra,Sedan,Manual,2007,Zaitun,152871,Nihil architecto cumque doloremque vitae totam expedita aut. Magni nam corporis voluptatum.
+18,Honda,Jazz,Hatchback,Automatic,2011,Ungu,165670,"Quidem nam autem itaque ipsam eius. Facere consequatur at.
+Voluptatibus iure placeat minus. Debitis impedit facilis tempore pariatur optio odio corrupti. Blanditiis sapiente atque nam excepturi in."
+19,Hyundai,Elantra,SUV,Manual,2001,Biru laut,61501,Nulla voluptatibus molestias veniam eaque sint explicabo. Nobis atque dolorum sit mollitia doloremque.
+20,Mitsubishi,Pajero,SUV,Manual,2023,Hijau muda,141433,"Neque nesciunt quisquam maiores expedita voluptatum qui. Alias modi nulla beatae vero.
+Rem eaque vel voluptate placeat nostrum. Officiis eum labore cumque nihil aperiam distinctio."
+21,Honda,Jazz,Sedan,Automatic,2009,Perak,142252,"Laboriosam non odit odio distinctio architecto delectus ducimus. Commodi sunt dolores.
+Nesciunt atque quod natus quia ipsum distinctio. Dolor commodi blanditiis adipisci aspernatur."
+22,Suzuki,Swift,MPV,Manual,2014,Magenta,46939,"Dolor minima tenetur voluptate. Cupiditate praesentium reprehenderit odio.
+Optio delectus explicabo ipsa. Ipsum eveniet tempora autem."
+23,Honda,Civic,Hatchback,Automatic,2015,Perak,130812,"Sunt similique quod nesciunt expedita dolor. Praesentium magnam nam officiis est.
+Voluptatibus porro molestiae a reiciendis. Laboriosam consequatur minima sapiente perspiciatis porro."
+24,Toyota,Camry,Hatchback,Automatic,2021,Koral,110717,"Quisquam a tempore inventore. Esse fuga laborum commodi quidem voluptates enim.
+Voluptates sed eaque optio placeat rerum. Ea eaque distinctio ducimus ipsam ducimus."
+25,Kia,Rio,Sedan,Automatic,2021,Zaitun,124351,"Minima porro ab soluta nemo fugit. Iste repellendus fugiat dolor.
+Quia maiores doloremque odio. Ipsa assumenda dicta voluptatum tempore quasi."
+26,Honda,Civic,Hatchback,Manual,2015,Zaitun,6116,"Ut blanditiis doloremque repudiandae occaecati quis maiores.
+Voluptatum officia sed. Placeat doloremque labore dolore quae cupiditate quaerat."
+27,Daihatsu,Terios,SUV,Automatic,2022,Merah jambu,66231,Repellendus necessitatibus explicabo eveniet harum neque. Modi esse cum. Ullam labore necessitatibus inventore aliquid similique.
+28,Suzuki,Swift,MPV,Automatic,2000,Biru muda,149736,Rerum nam ab repellat dolorum excepturi. Exercitationem temporibus deserunt voluptatum facere. Dicta sunt adipisci.
+29,Nissan,Sentra,Sedan,Automatic,2009,Koral,24627,Laudantium nesciunt ducimus dolor laudantium magnam nisi. Magni quam facilis cupiditate mollitia tenetur itaque. Itaque ut iusto maiores.
+30,Suzuki,Vitara,SUV,Automatic,2011,Jingga,102512,Reprehenderit totam rem error. Dolore minima alias suscipit cupiditate veniam repellendus. Veniam nisi molestias ducimus pariatur accusantium atque.
+31,Daihatsu,Terios,SUV,Manual,2002,Kuning,97106,Adipisci nostrum repudiandae sunt vero. Ullam nihil dolorum cupiditate provident consequuntur voluptatum. Corporis provident nemo quae soluta.
+32,Suzuki,Vitara,MPV,Manual,2006,Perak,56486,Ullam voluptatem repellat nihil tempora. Nostrum recusandae laboriosam molestiae. Veritatis est voluptas consequuntur velit quo nemo.
+33,Toyota,Yaris,Sedan,Manual,2003,Hitam,48303,"Quo tenetur quidem nesciunt commodi. Nostrum earum aperiam dicta. Facere corrupti et doloremque.
+Aliquid blanditiis facere suscipit reprehenderit. Nobis facere aut eius unde earum."
+34,Honda,Jazz,Hatchback,Automatic,2015,Merah marun,111534,Sunt corporis esse error voluptates. Exercitationem dolor corporis odit. Ipsam minus laudantium necessitatibus odio.
+35,Toyota,Yaris,Hatchback,Manual,2016,Ungu,88354,"Aut tempora inventore accusantium quod. Dignissimos mollitia deserunt libero. Earum voluptatem adipisci quidem.
+Voluptatem consectetur voluptatibus fuga. Illo temporibus aliquid."
+36,Mitsubishi,Pajero,Sedan,Manual,2014,Hijau tua,29150,Maxime ratione maxime. Maiores numquam enim delectus voluptatibus ex.
+37,Kia,Sorento,SUV,Manual,2022,Biru dongker,107851,Est dicta accusamus maiores consequatur.
+38,Daihatsu,Xenia,MPV,Manual,2004,Zaitun,84070,Reiciendis commodi accusantium soluta dolorem minus reprehenderit. Occaecati corporis optio.
+39,Honda,Accord,Sedan,Manual,2007,Biru laut,160700,"Qui quibusdam pariatur tenetur rerum quia at. Cupiditate ipsa eaque a doloribus.
+Nesciunt reiciendis modi vitae fugiat.
+Vero fugit atque. Cumque provident placeat ipsum sit."
+40,Mitsubishi,Pajero,Sedan,Manual,2004,Putih,160058,Nihil reiciendis aliquid eligendi. Culpa expedita reiciendis id accusantium enim. Illo id delectus quaerat culpa.
+41,Mitsubishi,Pajero,Sedan,Automatic,2014,Merah jambu,109108,Est optio ipsa eos. Dolorem distinctio consectetur impedit fugiat. Dolor voluptatum esse iusto amet.
+42,Nissan,Altima,SUV,Manual,2018,Hijau muda,122803,Eos consequatur accusamus illo soluta. Itaque molestiae quo recusandae voluptatem odit tempora voluptatum. Magnam expedita odio pariatur.
+43,Mitsubishi,Lancer,SUV,Automatic,2005,Coklat,137827,Veritatis nesciunt eligendi molestiae voluptas. Dolorem corrupti nesciunt architecto. Deleniti voluptatibus veniam temporibus quaerat labore suscipit. Dolorum vero veniam nisi est dolorum.
+44,Nissan,Rogue,Sedan,Automatic,2012,Ungu tua,178840,Ipsa rem neque minus dolor deserunt perferendis ipsum. Minus culpa praesentium harum nulla. Similique temporibus animi expedita magni.
+45,Suzuki,Ertiga,SUV,Manual,2012,Merah,61490,Suscipit fugit neque repudiandae rem ut error voluptatem. Possimus sunt nam id voluptatibus sint. Error perspiciatis nostrum saepe.
+46,Honda,Jazz,Hatchback,Manual,2018,Merah bata,61383,Earum distinctio veniam ullam nisi. Est provident incidunt accusantium dignissimos doloribus. Accusantium reiciendis pariatur voluptate in rerum.
+47,Toyota,Camry,Hatchback,Automatic,2006,Hitam,152080,Vero excepturi quia natus soluta. Nihil saepe dolores laborum quod sapiente. Qui sunt libero accusamus aliquid facilis laudantium.
+48,Daihatsu,Terios,Hatchback,Manual,2009,Putih,38310,Qui animi cupiditate ipsa. Provident aut impedit est ea.
+49,Suzuki,Swift,Hatchback,Manual,2012,Perak,93874,"Dolore iusto perspiciatis aliquam. Illo quia suscipit delectus quos rerum.
+Non ullam voluptate pariatur. Quibusdam voluptatum pariatur possimus aliquid."
